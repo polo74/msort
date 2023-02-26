@@ -13,10 +13,8 @@ def sort(source_dir, destination_dir):
 
         # Set the default folders
         file_source = os.path.join(source_dir, file)
-        print(file_source)
 
         if os.path.isdir(file_source):
-            print('coucou')
             sort(file_source, destination_dir)
             continue
 

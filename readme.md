@@ -7,6 +7,7 @@ For now, only works with video files
 ## Todo
 
 - [X] recursive search
+- [ ] ask confirmation before change
 - [ ] manage duplicates
 - [ ] check if not video file
 - [ ] manage photo files
