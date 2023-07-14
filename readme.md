@@ -1,4 +1,4 @@
-# Msort (Media Sort)
+# Msort (Media Sort) - Aborted
 
 Just a simple python script to sort photos and videos based on metadata.
 
